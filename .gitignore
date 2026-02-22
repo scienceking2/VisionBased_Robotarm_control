@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+build/
+install/
+log/
+tmp_repo/
+.vscode/
+.devcontainer/
